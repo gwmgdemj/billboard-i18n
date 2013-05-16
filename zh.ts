@@ -455,12 +455,12 @@
     <message>
         <location filename="../billboard-ui.qml" line="391"/>
         <source>Insert image (normal)</source>
-        <translation type="unfinished">插入图片(普通模式)</translation>
+        <translation type="unfinished">插入图片(固定模式)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="392"/>
         <source>Insert image (with dithering)</source>
-        <translation type="unfinished">插入图片(抖动模式)</translation>
+        <translation type="unfinished">插入图片(活动模式)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="394"/>
