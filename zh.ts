@@ -175,7 +175,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="185"/>
         <source>Today&apos;s events</source>
-        <translation type="unfinished">今天的事件</translation>
+        <translation type="unfinished">今日事件</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="187"/>
