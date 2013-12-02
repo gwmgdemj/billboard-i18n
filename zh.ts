@@ -225,22 +225,22 @@
     <message>
         <location filename="../billboard-ui.qml" line="199"/>
         <source>Brackets: {}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">括号:{}</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="200"/>
         <source>Brackets: {{}}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">括号:{{}}</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="201"/>
         <source>Embed image: &lt;&lt;&gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">嵌入图片:&lt;&lt;&gt;&gt;</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="202"/>
         <source>Embed image (dithered): &lt;&lt;#&gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">嵌入图片(系统默认):&lt;&lt;#&gt;&gt;</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="216"/>
@@ -460,7 +460,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="392"/>
         <source>Insert image (with dithering)</source>
-        <translation type="unfinished">插入图片(抖动模式)</translation>
+        <translation type="unfinished">插入图片(系统默认)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="394"/>
@@ -483,17 +483,17 @@
     <message>
         <location filename="../store-description.qml" line="14"/>
         <source>Display the current date, battery level, current song, internet connection information and more on your N9&apos;s standby screen - easy customization!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在您的N9待机屏幕上显示当前日期,电量信息,当前播放歌曲,网络连接信息以及更多信息.待机屏幕,轻松定制,操作简单,我的屏幕我做主!</translation>
     </message>
     <message>
         <location filename="../store-description.qml" line="15"/>
         <source>After the initial installation, you have to restart your N9 for configuration changes to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">安装软件后,您需要重启手机以使软件生效.</translation>
     </message>
     <message>
         <location filename="../store-description.qml" line="16"/>
         <source>Problems? Please e-mail %1 - we&apos;re here to help!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">发现任何问题,请发邮件到%1请求帮助!</translation>
     </message>
 </context>
 </TS>
