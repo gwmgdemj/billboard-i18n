@@ -225,22 +225,22 @@
     <message>
         <location filename="../billboard-ui.qml" line="199"/>
         <source>Brackets: {}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">括号:{}</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="200"/>
         <source>Brackets: {{}}</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">括号:{{}}</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="201"/>
         <source>Embed image: &lt;&lt;&gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">嵌入图片:</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="202"/>
         <source>Embed image (dithered): &lt;&lt;#&gt;&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">嵌入图片(系统默认)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="216"/>
@@ -460,7 +460,7 @@
     <message>
         <location filename="../billboard-ui.qml" line="392"/>
         <source>Insert image (with dithering)</source>
-        <translation type="unfinished">插入图片(活动模式)</translation>
+        <translation type="unfinished">插入图片(系统默认)</translation>
     </message>
     <message>
         <location filename="../billboard-ui.qml" line="394"/>
